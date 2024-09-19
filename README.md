@@ -11,7 +11,7 @@ I thrive in the world of technology, constantly pushing the boundaries of what's
 - 🛠 **Building**: A bridge between imagination and reality, one line of code at a time.
 
 ### 💡 What keeps me going:
-> *"The only way to discover the limits of the possible is to go beyond them into the impossible."* - Arthur C. Clarke
+> *"learn what you want"* 
 
 ### 🌐 Let's build the future together:
 Stay tuned for some awesome projects, and feel free to connect or collaborate. Let’s turn ideas into innovation!
